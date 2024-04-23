@@ -1,12 +1,9 @@
 
-# Term Project - CS638
+# Human Emotion Detection
 
 Facial Emotion Detection is a project which uses facial images to train Logistic regression and CNN models.
 After model training we made inference on the model.
-[Repository Link](https://github.com/pranav-modh/AML_Project)
-
-
-
+[Repository Link](https://github.com/pranav-modh/HumanEmotionDetection)
 
 
 ## Installation
@@ -86,7 +83,7 @@ After model training we made inference on the model.
 
 ## Authors
 
-- [@modhpranav](https://www.github.com/pranav-modh)
+- [@modhpranav](https://www.github.com/modhpranav)
 
 
 ## License
